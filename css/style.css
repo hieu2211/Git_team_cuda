@@ -412,6 +412,8 @@
 	display: block;
 	color: white;
 	padding-top: 50px;
+	padding-bottom: 20px;
+	margin: 0;
 }
 .bottom .line{
 	width: 100px;
