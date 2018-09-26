@@ -7,6 +7,66 @@
 	/*<!-- ---------------DevLuong------------- -->*/
 	/*<!-- -------------End DevLuong------------ -->*/
 	/*<!-- ---------------DevHien---------------- -->*/
+.khung .contant{
+	width: 100%;
+	height: 500px;
+	background: silver;
+	}
+.contant h2{
+	text-align: center;
+	padding-top: 50px;
+	font-family: arial;
+}
+.contant .line2{
+	width: 5%;
+	height: 3px;
+	background: gray;
+	margin: 0 auto;
+}
+.contant .post p{
+	text-align: center;
+}
+.contant .contant-bot{
+	width: 15%;
+	height: 350px;
+	/*background: red;*/
+	float: left;
+	margin-right: 50px;
+	margin-left: 60px;
+}
+.contant-bot .circle{
+	width: 120px;
+	height: 120px;
+	background: grey;
+	border-radius: 50%;
+	margin: 0 auto;
+}
+.contant-bot .box{
+	width: 100%;
+	height: 10px;
+}
+.box h3{
+	text-align: center;
+}
+.contant-bot .introduce p{
+	text-align: center;
+	color: #2b76ef;
+}
+.contant-bot .content p{
+	text-align: center;
+}
+.contant-bot .pic{
+	width: 100%;
+	height: 40px;
+	margin: 0 auto;
+}
+.pic img{
+	width: 20%;
+	height: 100%;
+	margin-left: 5px;
+	/*background: red;*/
+}
+
 	/*<!-- -------------end DevHien---------------- -->*/
 	/*<!-- -----------------Dev Hieu--------------- -->*/
 	/*<!-- ------------------end DevHieu-------------- -->*/
