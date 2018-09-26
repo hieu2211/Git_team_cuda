@@ -401,4 +401,106 @@
 	/*<!-- ----------------DevNhan---------------------- -->*/
 	/*<!-- -------------------end DevNhan-------------------- -->*/
 	/*<!-- --------------------------DevY--------------------- -->*/
-	/*<!-- ------------------------end Devy-------------------- -->*/
+.khung .bottom{
+	width: 100%;
+	height: 850px;
+	background: blue;
+}
+.bottom h1{
+	letter-spacing: 8px;
+	text-align: center;
+	display: block;
+	color: white;
+	padding-top: 50px;
+}
+.bottom .line{
+	width: 100px;
+	height: 2px;
+	background: black;
+	margin: 0 auto;
+}
+.bottom p{
+	display: block;
+	font-size: 20px;
+	color: white;
+	text-align: center;
+}
+.bottom .box{
+	display: block;
+	margin: 0 auto;
+	width: 71.1%;
+	height: 15%;
+}
+.box .NE{
+	margin-top: 25px;
+	float: left;
+	width: 48.50%;
+	height: 50%;
+	background: darkblue;
+}
+.diff{
+	margin-right: 3%;
+}
+.NE p{
+	font-size: 17px;
+	text-align: left;
+	margin-left: 10px;
+	margin-top: 21px;
+}
+.bottom .mess{
+	padding-left: 10px;
+	color: white;
+	font-size: 17px;
+	padding-top: 10px;
+	margin: 0 auto;
+	width: 70.6%;
+	height: 216.5px;
+	background: darkblue;
+	margin-bottom: 50px;
+}
+.bottom .send a{
+	display: block;
+	margin: 0 auto;
+	border-radius: 10px;
+	padding-top: 30px;
+	text-align: center;
+	width: 300px;
+	height: 50px;
+	color: white;
+	background: #5486ea;
+	text-decoration: none;
+}
+.bottom .send a:hover{
+	color: yellow;
+	background: red;
+}
+.bottom .footer{
+	display: block;
+	float: left;
+	width: 100%;
+	height: 100px;
+	background: darkblue;
+	margin-top: 150px;
+}
+.footer a{
+	text-align: center;
+	margin: 0 auto;
+	float: left;
+	display: block;
+	text-decoration: none;
+	width: 8%;
+	height: 60%;
+	color: white;
+	padding-top: 40px;
+	margin-left: 6%;
+	font-size: 20px;
+}
+.footer a:hover{
+	color: green;
+	background:#ffb600;
+}
+	/*<!-- ------------------------end Devy-------------------- -->*/}
+
+
+
+
