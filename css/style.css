@@ -39,7 +39,6 @@
 .logo ul li a:hover{
 	width: 100%;
 	height: 100%;
-	/*background: green;*/
 }
 .logo ul li a h3:hover{
 	color: #7FFFD4;
@@ -64,14 +63,12 @@
 	width: 100px;
 	height: 100%;
 	line-height: 40px;
-	/*/background: gray;*/
 }
 .menu ul li a{
 	text-decoration: none;
 	font-size: 20px;
 	padding-top: 10px;
 	color: white;
-	/*background: gray;*/
 	display: block;
 	width: 100%;
 	height: 100%;
@@ -193,7 +190,6 @@
 	.dip2 {
 		margin-right: 5%;
 	}
-
 
 	/*<!-- -------------End DevLuong------------ -->*/
 	/*<!-- ---------------DevHien---------------- -->*/
