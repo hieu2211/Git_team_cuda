@@ -3,6 +3,121 @@
 	background-color: silver;
 }
 	/*<!-- ------------DevTruong----------- -->*/
+	.head{
+	width: 100%;
+	height: 300px;
+	background: black;
+}
+.head .logo{
+	float: left;
+	width: 40%;
+	height: 50px;
+	background: #996699;
+}
+.logo ul{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+.logo ul li a{
+	float: left;
+	width: 100%;
+	height: 100%;
+	text-align: center;
+}
+.logo ul li a h3{
+	text-decoration: none;
+	color:white;
+	width: 100%;
+	height: 100%;
+	float: left;
+	font-size: 20px;
+	color: white;
+	font-family: Helvetica, Arial, Tahoma, sans-serif;
+	display: block;
+}
+.logo ul li a:hover{
+	width: 100%;
+	height: 100%;
+	/*background: green;*/
+}
+.logo ul li a h3:hover{
+	color: #7FFFD4;
+}
+.head .menu{
+	float: left;
+	width: 60%;
+	height: 50px;
+	background: #996699;
+}
+.menu ul{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	width: 100%;
+	height: 100%;
+	}
+.menu ul li{
+	float: left;
+	margin-left: 20px;
+	display: block;
+	width: 100px;
+	height: 100%;
+	line-height: 40px;
+	/*/background: gray;*/
+}
+.menu ul li a{
+	text-decoration: none;
+	font-size: 20px;
+	padding-top: 10px;
+	color: white;
+	/*background: gray;*/
+	display: block;
+	width: 100%;
+	height: 100%;
+	text-align: center;
+}
+.menu ul li a:hover{
+	color: #cc33cc;
+}
+.menu ul li:hover{
+	/*background: #BDBDBD;*/
+}
+.menu ul li.active{
+	background: #996699;
+}
+.menu ul li.active a{
+	color: yellow;
+}
+.menu ul li.active:hover{
+	background: black;
+}
+.head .box{
+	float: left;
+	width: 100%;
+	height: 250px;
+	background: #996699;
+}
+.head h4{
+	display: block;
+	color: white;
+	text-align: center;
+	padding-top: 40px;
+	font-size: 20px;
+}
+.box a.lienket{
+	display: block;
+	text-decoration: none;
+	width: 120px;
+	height: 30px;
+	background: orange;
+	text-align: center;
+	padding-top: 5px;
+	margin-left: 45%;
+}
+.box a .lienket:hover{
+	color: red;
+}
 	/*<!-- ------------end DevTruong------- -->*/
 	/*<!-- ---------------DevLuong------------- -->*/
 	/*<!-- -------------End DevLuong------------ -->*/
