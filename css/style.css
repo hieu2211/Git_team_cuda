@@ -9,6 +9,128 @@
 	/*<!-- ---------------DevHien---------------- -->*/
 	/*<!-- -------------end DevHien---------------- -->*/
 	/*<!-- -----------------Dev Hieu--------------- -->*/
+.khung .article-top{
+	height: 500px;
+	background-color: white;
+	font-family: sans-serif;
+	margin: 0 auto;
+	}
+.khung .article-top h3{
+	font-size: 20px;
+	text-align: center;
+	padding-top: 50px;
+	}
+.khung .article-top p{
+	font-size: 16px;
+	text-align: center;
+	display: block;
+	margin: 20px 25%;
+	}
+.khung .article-top .line{
+	width: 10%;
+	height:3px;
+	background-color: gray;
+	margin: 0 auto;
+	}
+.khung .article-top .content-percent{
+	width: 300px;
+	height:300px;
+	text-align: center;
+	float: left;
+}
+.article-top .content-percent a{
+	width: 160px;
+}
+.article-top .content-percent img{
+	height: 160px;
+}
+.article-top .content-percent p{
+	font-size: 18px;
+	font-weight: bold;
+}
+.diff1{
+	margin-left: 70px; 
+}
+.khung .article-bottom{
+	height: 1200px;
+	background-color: #ffdd99;
+	margin: 0 auto;
+	font-family: sans-serif;
+}
+.khung .article-bottom h3{
+	font-size: 20px;
+	text-align: center;
+	padding: 50px 0 20px 0;
+	margin: 0;
+}
+.khung .article-bottom .line{
+	width: 10%;
+	height:3px;
+	background-color: gray;
+	margin: 0 auto;
+}
+.khung .article-bottom p{
+	font-size: 16px;
+	text-align: center;
+	display: block;
+	margin: 20px 25%;
+}
+.khung .article-bottom .content-search{
+	margin: 0 auto;
+	margin:0 35%;
+}
+.content-search a{
+	float: left;
+	display: block;
+	padding: 5px 20px;
+	background-color: #ebc985;
+	text-decoration: none;
+	margin: 10px;
+	color: black;
+	border-radius: 5px;
+	margin-bottom: 50px;
+}
+.content-search a.active{
+	background-color: white;
+}
+.content-search a.active,
+.content-search a:hover{
+	background-color: white;
+}
+.article-bottom .content-img{
+	height: 790px;
+}
+.content-img .content-img-computer{
+	float: left;
+	width: 580px;
+	height: 375px;
+	margin: 20px 0%;
+	margin-left: 5%;
+}
+.content-img-computer a{
+	width: 540px;
+}
+.content-img-computer a img{
+	height: 315px;
+}
+.content-img-computer p{
+	font-size: 20px;
+	font-weight: bold;
+}
+.article-bottom .more{
+}
+.article-bottom .more a{
+	/*display: block;*/
+	padding: 10px 20px;
+	border-radius: 5px;
+	background-color: #17c2a4;
+	color: white;
+	font-weight: bold;
+	text-decoration: none;
+	margin-left: 41%;
+	margin-top: 50px;
+
+}
 	/*<!-- ------------------end DevHieu-------------- -->*/
 	/*<!-- ----------------DevNhan---------------------- -->*/
 	/*<!-- -------------------end DevNhan-------------------- -->*/
